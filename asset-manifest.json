@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sotuken-web3/static/css/main.005c70c8.css",
-    "main.js": "/sotuken-web3/static/js/main.50ea3c5a.js",
+    "main.js": "/sotuken-web3/static/js/main.5209ad51.js",
     "static/js/858.4f80d417.chunk.js": "/sotuken-web3/static/js/858.4f80d417.chunk.js",
     "static/js/787.7f1ea097.chunk.js": "/sotuken-web3/static/js/787.7f1ea097.chunk.js",
     "static/media/metamask-icon.svg": "/sotuken-web3/static/media/metamask-icon.b3649ecfe8c45f27ceb9f99d70f3d24e.svg",
@@ -9,12 +9,12 @@
     "static/media/blocto-icon.svg": "/sotuken-web3/static/media/blocto-icon.ff8c029ba3c3588f8924488fe25239d5.svg",
     "index.html": "/sotuken-web3/index.html",
     "main.005c70c8.css.map": "/sotuken-web3/static/css/main.005c70c8.css.map",
-    "main.50ea3c5a.js.map": "/sotuken-web3/static/js/main.50ea3c5a.js.map",
+    "main.5209ad51.js.map": "/sotuken-web3/static/js/main.5209ad51.js.map",
     "858.4f80d417.chunk.js.map": "/sotuken-web3/static/js/858.4f80d417.chunk.js.map",
     "787.7f1ea097.chunk.js.map": "/sotuken-web3/static/js/787.7f1ea097.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.005c70c8.css",
-    "static/js/main.50ea3c5a.js"
+    "static/js/main.5209ad51.js"
   ]
 }
